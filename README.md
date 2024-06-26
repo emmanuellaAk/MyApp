@@ -40,8 +40,7 @@
 
 ![photo_2024-06-26_21-44-06](https://github.com/emmanuellaAk/rn-assignment5-11090094/assets/137521867/200dc7ff-91ee-49fe-9d67-350ef18597a4)
 ![photo_2024-06-26_21-44-07](https://github.com/emmanuellaAk/rn-assignment5-11090094/assets/137521867/5909f3ff-74cf-4584-99c2-5e6404689064)
-![photo_2024-06-26_21-44-07 (2)](https://github.com/emmanuellaAk/rn-assignment5-![![p![![photo_2024-06-26_21-44-07](https://github.com/emmanuellaAk/rn-assignment5-11090094/assets/137521867/0d48a533-d112-464a-a576-d2015ff692e5)
-Screenshot 2024-06-26 151532](https://github.com/emmanuellaAk/rn-assignment5-11090094/assets/137521867/c96f6d29-336f-4348-ad2f-36f37cd81b1e)
-hoto_2024-06-26_21-44-08 (2)](https://github.com/emmanuellaAk/rn-assignment5-11090094/assets/137521867/82d7c0dd-4329-4780-bcc9-d1df7833a5e9)
-photo_2024-06-26_21-44-08](https://github.com/emmanuellaAk/rn-assignment5-11090094/assets/137521867/b7119716-de15-4c7f-a269-7edaf47320c2)
-11090094/assets/137521867/701eaa23-a03b-4c4d-ba78-dfbe21cb309d)
+![photo_2024-06-26_21-44-08](https://github.com/emmanuellaAk/rn-assignment5-11090094/assets/137521867/3ddcdd47-5156-4fba-b544-11a50cdaf5d6)
+![photo_2024-06-26_21-44-07 (2)](https://github.com/emmanuellaAk/rn-assignment5-11090094/assets/137521867/b59cdf91-fed6-4cd8-900f-167abe3b6e16)
+![photo_2024-06-26_21-44-08 (2)](https://github.com/emmanuellaAk/rn-assignment5-11090094/assets/137521867/481689d2-dacb-44b8-a929-e6d1634fb1b1)
+![Screenshot 2024-06-26 151532](https://github.com/emmanuellaAk/rn-assignment5-11090094/assets/137521867/54f80f7e-3908-40dc-af55-c711cedb2d47)
