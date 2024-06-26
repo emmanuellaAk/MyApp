@@ -1,7 +1,7 @@
 # Overview
 ## Screens and Components
 ### Homepage
--The Homepage is the main screen that users interact with. It displays a welcome message, profile picture, card information, quick action buttons, and a list of recent transactions.
+- The Homepage is the main screen that users interact with. It displays a welcome message, profile picture, card information, quick action buttons, and a list of recent transactions.
 
 ## Key Components
 * Profile Section: Displays the user's profile picture, welcome message, and name.
@@ -14,7 +14,7 @@
 * Utilizes TouchableOpacity for interactive footer navigation buttons.
 
 ## Settings Screen
--The Settings Screen allows users to customize their app experience, including changing themes, language, viewing their profile, and more.
+- The Settings Screen allows users to customize their app experience, including changing themes, language, viewing their profile, and more.
 
 ### Key Components
 *Theme Toggle: A switch to toggle between dark and light themes.
@@ -23,8 +23,8 @@
 *Employs SafeAreaView for iOS compatibility.
 *Integrates Ionicons for forward navigation icons.
 
-##Transaction Component
--The Transaction component is a reusable component to display individual transaction details in the transaction list.
+## Transaction Component
+- The Transaction component is a reusable component to display individual transaction details in the transaction list.
 
 *title: The name of the transaction.
 *section: The category or section of the transaction.
